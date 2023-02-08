@@ -15,6 +15,7 @@ public class AbsChild extends AbsPar{
 		AbsChild a=new AbsChild();
 		a.deposit();
 		a.savings();
+		System.out.println("welcome");
 		
 	}
 
